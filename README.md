@@ -136,9 +136,3 @@ Deleta um usuário pelo ID.
 }
 ```
 Código de Status: `200 OK`
-
-## Contribuindo
-Contribuições são bem-vindas! Faça um fork deste repositório e envie um pull request com suas alterações.
-
-## Licença
-Este projeto é licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais informações.
